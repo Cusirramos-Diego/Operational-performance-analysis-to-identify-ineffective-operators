@@ -15,3 +15,10 @@ Python | Pandas | NumPy | SciPy | SQL | Matplotlib | Seaborn
 
 💭 Recommendations:
 Proposed redistributing the operational workload, continuously monitoring critical indicators, and establishing alerts for operators with high missed-call rates.
+
+▶️ How to Run
+
+Clone the repository: git clone https://github.com/Cusirramos-Diego/Operational-performance-analysis-to-identify-ineffective-operators.git
+Open the notebook in Jupyter Notebook or Jupyter Lab.
+Run the cells sequentially to reproduce the analysis and visualizations.
+Review insights, conclusions, and recommendations.
