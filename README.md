@@ -1,5 +1,5 @@
-📌 Project Description: Operational performance analysis to identify ineffective operators
-An analysis was conducted to identify underperforming operators within a virtual telephony service using indicators such as missed calls, wait times, and call volume, with the aim of supporting supervisors in operational decision-making.
+# Operational performance analysis to identify ineffective operators
+📌 Project Description: An analysis was conducted to identify underperforming operators within a virtual telephony service using indicators such as missed calls, wait times, and call volume, with the aim of supporting supervisors in operational decision-making.
 
 🔍 Methodology:
 •	Performed an exploratory analysis on over 300,000 call records, cleaning data inconsistencies, constructing operator-specific metrics, and segmenting performance by call type, client, and communication direction.
