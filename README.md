@@ -1,4 +1,4 @@
-<img width="1204" height="921" alt="image" src="https://github.com/user-attachments/assets/66f90e4c-e5b1-45a6-9edc-2fe46ae3494b" /># Operational performance analysis to identify ineffective operators
+# Operational performance analysis to identify ineffective operators
 
 📌 Project Description:  
 An analysis was conducted to identify underperforming operators within a virtual telephony service using indicators such as missed calls, wait times, and call volume, with the aim of supporting supervisors in operational decision-making.
