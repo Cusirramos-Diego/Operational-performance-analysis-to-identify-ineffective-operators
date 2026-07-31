@@ -21,7 +21,26 @@ Python | Pandas | NumPy | SciPy | SQL | Matplotlib | Seaborn
 •	Distribution of efficient and inefficient operators based on average call waiting time:  
 <img width="1544" height="766" alt="image" src="https://github.com/user-attachments/assets/bd985809-69fb-4aae-90b5-ea6554064413" />
 
-💭 Recommendations:  
+🎯 KPIs to change:  
+•	Missed call rate.  
+•	Average wait time.  
+•	Average handling time.  
+•	Calls handled by an operator.  
+•	Service Level.  
+
+🤔 Subsequent hypothesis worth evaluating:  
+If supervisors receive automated alerts regarding underperforming operators and redistribute the call load in a timely manner, the proportion of missed calls and the average wait time will decrease.
+
+💡 Recommended decision for the Product Manager:  
+Based on the analysis, it is proposed to incorporate a real-time monitoring dashboard into the platform that automatically identifies operators with high missed-call rates, long wait times, or low outbound activity. This would allow supervisors to intervene before performance impacts the customer experience.
+
+🚀 Expected impact:  
+•	Reduction in missed calls.  
+•	Improved customer satisfaction.  
+•	Greater operational efficiency.  
+•	Better utilization of agent capacity.  
+
+💭 General recommendations:  
 Proposed redistributing the operational workload, continuously monitoring critical indicators, and establishing alerts for operators with high missed-call rates.
 
 ▶️ How to Run:  
