@@ -16,9 +16,9 @@ Operator performance cannot be accurately assessed using a single operational me
 ⚙️ Main analytical decisions:  
 •	Removed duplicate records and validated data consistency before performing any analysis.  
 •	Distinguished inbound, outbound, internal, and external calls to avoid mixing operational contexts.  
-•	Designed four operational KPIs that capture different dimensions of operator performance.
-•	Combined exploratory analysis with statistical hypothesis testing to validate whether observed differences between operator groups were statistically significant.
-•	Prioritized business interpretability so that every metric could be directly used by supervisors for operational monitoring.
+•	Designed four operational KPIs that capture different dimensions of operator performance.  
+•	Combined exploratory analysis with statistical hypothesis testing to validate whether observed differences between operator groups were statistically significant.  
+•	Prioritized business interpretability so that every metric could be directly used by supervisors for operational monitoring.  
 
 🛠️ Technical Tools:  
 Python | Pandas | NumPy | SciPy | SQL | Matplotlib | Seaborn
